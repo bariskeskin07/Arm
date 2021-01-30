@@ -49,3 +49,4 @@ for j=1:5;
 end
 Ia=Ia*Np;
 end
+örnek deneme
